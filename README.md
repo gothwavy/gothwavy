@@ -1,4 +1,3 @@
-
 # Olá, me chamo Ryan e seja bem-vindo ao meu Github! 🖤
 <hr />
 
