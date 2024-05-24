@@ -1,10 +1,10 @@
 
-# Olá, me chamo Ryan e te convido para fazer um tour pelo meu github! 👋
+# Olá, me chamo Ryan e seja bem-vindo ao meu Github! 🖤
 
-- Atualmente estudo no Instituto PROA, com foco em desenvolvimento web com c#
-- Formado em Programação de Jogos Digitais pela ETEC. 🎮
+- Atualmente estudando no Instituto PROA 🚀
+- Formado em Programação de Jogos Digitais pela ETEC 🎮
 
-###*<p align="center"> Me superando cada dia mais, porque o futuro não espera por ninguém! </p>*
+*<p align="center" font-weight="bold"> Me superando cada dia mais, porque o futuro não espera por ninguém! </p>*
  <hr>
  <div>
   <a href="https://github.com/gothwavy"></a>
