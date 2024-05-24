@@ -4,7 +4,7 @@
 - Atualmente estudando no Instituto PROA 🚀
 - Formado em Programação de Jogos Digitais pela ETEC 🎮
 
-###*Me superando cada dia mais, porque o futuro não espera por ninguém!*
+### *Me superando cada dia mais, porque o futuro não espera por ninguém!*
 
 <hr>
 <div>
