@@ -3,7 +3,6 @@
 
 - Atualmente estudando no Instituto PROA 🚀
 - Formado em Programação de Jogos Digitais pela ETEC 🎮
-
 ### *Me superando cada dia mais, porque o futuro não espera por ninguém!*
 
 <hr>
@@ -28,11 +27,7 @@
 <br />
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-&nbsp;
-&nbsp;
 
 ### CONTATOS
 <div> 
@@ -46,8 +41,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gothwavy/gothwavy/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gothwavy/gothwavy/output/github-contribution-grid-snake.svg">
 </picture>
-
-###
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=590CE9&height=120&section=footer"/>
 
