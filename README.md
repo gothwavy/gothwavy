@@ -42,6 +42,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gothwavy/gothwavy/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=590CE9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22272e&height=120&section=footer"/>
 
 </div>
