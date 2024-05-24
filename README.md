@@ -1,10 +1,10 @@
+
 # Olá, me chamo Ryan e seja bem-vindo ao meu Github! 🖤
-<hr />
 
 - Atualmente estudando no Instituto PROA 🚀
 - Formado em Programação de Jogos Digitais pela ETEC 🎮
 
-*<p align="center" font-weight="bold"> Me superando cada dia mais, porque o futuro não espera por ninguém! </p>*
+###*Me superando cada dia mais, porque o futuro não espera por ninguém!*
 
 <hr>
 <div>
