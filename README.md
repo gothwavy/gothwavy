@@ -5,14 +5,14 @@
 - Formado em Programação de Jogos Digitais pela ETEC 🎮
 
 *<p align="center" font-weight="bold"> Me superando cada dia mais, porque o futuro não espera por ninguém! </p>*
- <hr>
- <div>
+
+<hr>
+<div>
   <a href="https://github.com/gothwavy"></a>
   <img height="240em" src="https://github-readme-stats.vercel.app/api?username=gothwavy&theme=tokyonight&show_icons=false">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gothwavy&theme=tokyonight&langs_count=8"> 
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gothwavy&theme=tokyonight&langs_count=8">
 </div>
- &nbsp;
- &nbsp;
+<hr>
 
 ### TECNOLOGIAS
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
