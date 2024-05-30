@@ -14,18 +14,18 @@
 <hr>
 
 ### TECNOLOGIAS
-![HTML](https://img.shields.io/badge/HTML5-676767?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-676767?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-676767.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-676767?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![React.js](https://img.shields.io/badge/React-676767?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-343434?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-343434?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-343434.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-343434?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-343434?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 <br />
-![C#](https://img.shields.io/badge/c%23-676767.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-676767?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-676767.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQL.Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-676767?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/c%23-343434.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-343434?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-343434.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQL.Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-343434?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 <br />
-![Figma](https://img.shields.io/badge/Figma-676767?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-343434?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Icone Github">
 
