@@ -27,7 +27,11 @@
 <br />
 ![Figma](https://img.shields.io/badge/Figma-343434?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Icone Github">
+<div min-width="300px" max-width="300px" width="300px" align="right">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</div>
 
 ### CONTATOS
 <div> 
@@ -36,11 +40,7 @@
 <a href="https://www.linkedin.com/in/ryanalmeidadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-343434?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gothwavy/gothwavy/output/github-contribution-grid-snake-dark.svg">
