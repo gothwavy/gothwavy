@@ -6,7 +6,7 @@
 <hr />
 
 <div align="center">
-  ## *ASH IS OUR PUREST FORM!*
+  ##*ASH IS OUR PUREST FORM!*
 </div>
 
 <hr>
