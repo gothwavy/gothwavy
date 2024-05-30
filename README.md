@@ -1,12 +1,19 @@
-
+<div align="center">
+  
 # Olá, me chamo Ryan e seja bem-vindo ao meu Github! 🖤
+  
+</div>
+
 
 - Estudando no Instituto PROA 🚀
 - Formado em Programação de Jogos Digitais pela ETEC 🎮
 <hr />
 
+
 <div align="center">
-  ##*ASH IS OUR PUREST FORM!*
+  
+  ### *"ASH IS OUR PUREST FORM"*
+  
 </div>
 
 <hr>
@@ -35,6 +42,8 @@
 
 </div>
 
+<hr />
+
 ### CONTATOS
 <div> 
 <a href="https://www.instagram.com/gothwavyy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-343434?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -42,18 +51,15 @@
 <a href="https://www.linkedin.com/in/ryanalmeidadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-343434?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>
 
+<hr />
 
+<div align="center" min-width="900px" max-width="900px"">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gothwavy/gothwavy/output/Cobrinha.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gothwavy/gothwavy/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gothwavy/gothwavy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gothwavy/gothwavy/output/Cobrinha.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gothwavy/gothwavy/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
