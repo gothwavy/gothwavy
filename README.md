@@ -32,7 +32,7 @@
 ![React.js](https://img.shields.io/badge/React-343434?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-343434.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-343434?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-343434.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-343434.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL.Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-343434?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-343434?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
