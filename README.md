@@ -3,6 +3,7 @@
 
 - Estudando no Instituto PROA 🚀
 - Formado em Programação de Jogos Digitais pela ETEC 🎮
+<hr />
 
 <div align="center">
   <p size="20px"><em>Ash is our purest form!</em></p>
