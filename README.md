@@ -6,7 +6,7 @@
 <hr />
 
 <div align="center">
-  <p size="20px"><em>Ash is our purest form!</em></p>
+  <h2><em>ASH IS OUR PUREST FORM!</em></h2>
 </div>
 
 <hr>
