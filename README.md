@@ -4,8 +4,8 @@
 - Estudando no Instituto PROA 🚀
 - Formado em Programação de Jogos Digitais pela ETEC 🎮
 
-<div align="center" text-transform="uppercase" font-size="20px">
-  <p><em>Ash is our purest form!</em></p>
+<div align="center">
+  <p text-transform="uppercase" font-size="20px"><em>Ash is our purest form!</em></p>
 </div>
 
 <hr>
