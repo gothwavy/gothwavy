@@ -27,7 +27,7 @@
 <br />
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Icone Github">
 
 ### CONTATOS
 <div> 
