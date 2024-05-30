@@ -37,13 +37,7 @@
 </div>
 
 <picture>
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{gothwavy}}
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=black&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+https://raw.githubusercontent.com/gothwavy/gothwavy/output/github-contribution-grid-snake.svg
 </picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
