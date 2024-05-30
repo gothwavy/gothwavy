@@ -1,9 +1,12 @@
 
 # Olá, me chamo Ryan e seja bem-vindo ao meu Github! 🖤
 
-- Atualmente estudando no Instituto PROA 🚀
+- Estudando no Instituto PROA 🚀
 - Formado em Programação de Jogos Digitais pela ETEC 🎮
-### *Me superando cada dia mais, porque o futuro não espera por ninguém!*
+
+<div align="center" text-transform="uppercase" font-size="20px">
+  <p><em>Ash is our purest form!</em></p>
+</div>
 
 <hr>
 <div>
