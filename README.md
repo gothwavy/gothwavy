@@ -5,7 +5,7 @@
 - Formado em Programação de Jogos Digitais pela ETEC 🎮
 
 <div align="center">
-  <p text-transform="uppercase" font-size="20px"><em>Ash is our purest form!</em></p>
+  <p size="20px"><em>Ash is our purest form!</em></p>
 </div>
 
 <hr>
