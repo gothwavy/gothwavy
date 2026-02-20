@@ -9,14 +9,6 @@
   ### *"ASH IS OUR PUREST FORM"* 
 
 <hr />
-
-
-<a href="https://github.com/gothwavy"></a>
-<img height="240em" src="https://github-readme-stats.vercel.app/api?username=gothwavy&theme=dark&show_icons=false">
-<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gothwavy&theme=dark&langs_count=8">
-
-
-<hr />
   
 ## TECNOLOGIAS
 ![HTML](https://img.shields.io/badge/HTML5-343434?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -29,7 +21,6 @@
 ![Git](https://img.shields.io/badge/git-343434?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-343434.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL.Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-343434?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-343434?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 <hr />
 
